@@ -4,7 +4,7 @@ This is my final project at General Assembly (Singapore), as part of a 12-week D
 
 **Motivation**
 
-Being a business developer in my previous life, i understood first-hand the importance of being customer obsessed. After all, they are the lifeline of any business. Churn is immensely detrimental to a business regardless of one being an established MNC or a fledgling startup, and it  
+Being a business developer in my previous life, i understood first-hand the importance of being customer obsessed. After all, they are the lifeline of any business. Churn is immensely detrimental to a business regardless of one being an established MNC or a fledgling startup, and it is imperative for management to keep churn numbers down. 
 
 **Project Workflow**
 
