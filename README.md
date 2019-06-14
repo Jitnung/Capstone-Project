@@ -12,4 +12,4 @@ In this project, i sought to frame churn as a data science problem. Using a samp
 
 First, by applying binary classification techniques using models from Logistic Regression, Random Forest to XGBoost, i intend to predict customers who are likely to churn. The emphasis is on high precision-recall scores (and F1) due to the imbalanced dataset nature.  
 
-Second, i would apply customer segmentation analysis and built a recommender system to put forth tailored marketing strategies that will companies to optimize retention rates.
+Second, i would apply customer segmentation analysis to put forth tailored marketing strategies that will companies to optimize retention rates.
